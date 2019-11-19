@@ -1,6 +1,6 @@
 package myPrograms;
 
-public class DeleteLastLinkedListNode {
+//public class DeleteLastLinkedListNode {
 	static class Node{
 		int data;
 		Node next;
